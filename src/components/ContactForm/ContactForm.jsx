@@ -55,7 +55,7 @@ export class ContactForm extends Component {
                 <Button type="submit">Add contact<FaUserPlus /></Button>
                 </Form>
         );
-    }
+    };
 };
 
 ContactForm.propTypes = {
