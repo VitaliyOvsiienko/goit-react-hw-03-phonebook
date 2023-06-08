@@ -1,3 +1,7 @@
+// import PropTypes from 'prop-types';
+// import { ContactItem } from 'components/contactItem';
+// import { List } from './ContactList.styled';
+
 import PropTypes from 'prop-types';
 import { ContactItem } from 'components/contactItem';
 import { List } from './ContactList.styled';
