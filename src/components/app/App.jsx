@@ -1,11 +1,3 @@
-// import { Component } from "react";
-// import { Frame, Container, Title, SubTitle } from "./App.styled";
-// import { ContactForm } from "components/contactForm";
-// import { ContactList } from "components/contactList";
-// import { Filter } from "components/filter";
-// import { nanoid } from "nanoid";
-// import defaultContacts from '../../data/contacts.json';
-
 import { Component } from "react";
 import { Frame, Container, Title, SubTitle } from "./App.styled";
 import { ContactForm } from "components/contactForm";

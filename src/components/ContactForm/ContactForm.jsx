@@ -1,8 +1,3 @@
-// import { Component } from "react";
-// import PropTypes from 'prop-types'
-// import { Form, Label, Input, Button } from "./ContactForm.styled";
-// import { FaUserPlus } from "react-icons/fa";
-
 import { Component } from "react";
 import PropTypes from 'prop-types';
 import { Form, Label, Input, Button } from './ContactForm.styled';

@@ -1,7 +1,3 @@
-// import PropTypes from 'prop-types';
-// import { Item, Text, Button,} from './ContactItem.style';
-// import { FaTrash } from "react-icons/fa";
-
 import PropTypes from 'prop-types';
 import { Item, Text, Button } from './ContactItem.style';
 import { FaTrash } from 'react-icons/fa';
